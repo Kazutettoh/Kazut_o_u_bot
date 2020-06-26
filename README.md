@@ -1,9 +1,4 @@
-# Userbot-100101110
-
-[![GitHub followers](https://img.shields.io/github/followers/100101110?label=Followers&style=social)](https://github.com/100101110?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/100101110/userbot-100101110?style=social)](https://github.com/100101110/userbot-100101110/stars/)
-[![GitHub forks](https://img.shields.io/github/forks/100101110/userbot-100101110?style=social)](https://github.com/100101110/userbot-100101110/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/100101110/userbot-100101110?style=social)](https://github.com/100101110/userbot-100101110/watchers/)
+Userbot kazut_o
 
 ***
 
@@ -21,10 +16,3 @@
   - `APP_ID`: Valore da ottenere da <https://my.telegram.org>
   - `API_HASH`: Valore da ottenere da <https://my.telegram.org>
 - Se non ci sono causerà: `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
-
-***
-
-#### CONTATTI:
-
-[![Telegram](https://img.shields.io/badge/TG-%20@IOOIOIIIO-orange.svg)](https://t.me/IOOIOIIIO)
-[![Github](https://img.shields.io/badge/Github-%20100101110-purple.svg)](https://github.com/100101110)
