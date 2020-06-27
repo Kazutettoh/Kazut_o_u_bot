@@ -19,7 +19,6 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "100101110"
 async def _(event):
     if event.fwd_from:
         return                
-    await event.edit("{DEFAULTUSER} è il più fiko perché ha l'userbot di @acosaserveunusername")
+    await event.edit(f"{DEFAULTUSER} è il più fiko perché ha l'userbot")
     await asyncio.sleep(3)
     await event.delete()
-            
